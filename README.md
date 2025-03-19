@@ -1,2 +1,2 @@
-# css-code
-How to use inline , internal and external css
+# CSS-code
+How to use inline, internal and external CSS
